@@ -1,1 +1,1 @@
-# dsr-teaching-setup
+# dsr-setup
